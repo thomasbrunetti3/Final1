@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tutorial for digital images</title>
+  <meta charset ="UTF-8">
+</head>
+  <body>
+    A digital image is a representation of a real image as a set of numbers that can be stored and handled by a digital computer. In order to translate the image into numbers, it is divided into small areas called pixels (picture elements).
+    Generally a tool like Adobe Photoshop is used to edit bitmap images and a tool like Adobe Illustrator is used to edit vector images. (I say “generally” because over time both tools have grown to accomodate both image types.Photoshop is still primarily used for bitmap images and Illustrator is used for vector images.
+    In computer graphics, a raster graphics or bitmap image is a dot matrix data structure that represents a generally rectangular grid of pixels (points of color), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats.
+    Vector graphics are computer graphics images that are defined in terms of 2D points, which are connected by lines and curves to form polygons and other shapes.[1] Each of these points has a definite position on the x- and y-axis of the work plane and determines the direction of the path
+  </body>
+
+</html>
