@@ -1,4 +1,4 @@
-# INFOTC2600Final
+# INFOTC 2600 Final
 Final Project: Digital Concept Tutorial
 
 
