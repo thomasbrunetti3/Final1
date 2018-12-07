@@ -3,7 +3,7 @@ Final Project: Digital Concept Tutorial
 
 
 ###### Author: Thomas Brunetti
-###### Summary: Basic information about Bitmap images and Vector 
+###### Summary: Learning about Bitmap images and Vector 
 ###### Target audience: Beginners/No previous knowledge required 
 
 ##### To learn more information about SVG select this link (https://www.linkedin.com/learning/illustrator-cc-for-web-design-svg/what-is-svg-and-why-should-you-use-it)
